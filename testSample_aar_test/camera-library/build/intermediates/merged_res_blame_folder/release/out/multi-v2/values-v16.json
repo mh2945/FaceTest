@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.cameralibrary.camera-library-merged_res-30:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ikjang/.gradle/caches/8.10.2/transforms/c38bdb6dd0df98ddc8b82bf4ef5f5c55/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/ikjang/.gradle/caches/8.10.2/transforms/4e1c722245c362d8bd02a65e96c6c383/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.cameralibrary.camera-library-mergeReleaseResources-28:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ikjang/.gradle/caches/8.10.2/transforms/c38bdb6dd0df98ddc8b82bf4ef5f5c55/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/ikjang/.gradle/caches/8.10.2/transforms/4e1c722245c362d8bd02a65e96c6c383/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

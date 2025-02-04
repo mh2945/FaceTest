@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml:2:13-83
+INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml:2:13-83
+	package
+		INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml
+	xmlns:android
+		ADDED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml reason: use-sdk injection requested
+INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml
+INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml
+	android:minSdkVersion
+		INJECTED from /Users/ikjang/AndroidStudioProjects/testSample_aar_test/camera-library/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest14329331015287829658.xml
